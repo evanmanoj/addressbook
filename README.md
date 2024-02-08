@@ -1,4 +1,4 @@
-I am testing my automation Manoj test1
+I am testing my automation
 
 Addressbook Tutorial
 ====================
